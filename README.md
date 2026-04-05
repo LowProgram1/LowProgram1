@@ -86,9 +86,8 @@ I am a freelance full-stack developer specializing in building scalable web appl
 
 ## 📫 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/YOUR_USERNAME  
+- Email: jerald11kasim@gmail.com 
+- GitHub: https://github.com/LowProgram1 
 
 ---
 
