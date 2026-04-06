@@ -28,6 +28,7 @@ Building modern web, mobile, and backend solutions with clean architecture and s
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
