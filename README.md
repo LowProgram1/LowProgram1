@@ -95,7 +95,7 @@ I am a freelance full-stack developer specializing in building scalable web appl
 ## 📫 Contact
 
 <p>
-  <img src="https://cdn.simpleicons.org/gmail/white" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/>
   <b>Email:</b> <a href="mailto:jerald11kasim@gmail.com">jerald11kasim@gmail.com</a>
 </p>
 
@@ -110,7 +110,7 @@ I am a freelance full-stack developer specializing in building scalable web appl
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/facebook/white" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/>
   <b>Facebook:</b> <a href="https://www.facebook.com/jerald.kasim">facebook.com/jerald.kasim</a>
 </p>
 
