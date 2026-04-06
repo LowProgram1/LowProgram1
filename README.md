@@ -34,9 +34,8 @@ Building modern web, mobile, and backend solutions with clean architecture and s
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
@@ -49,8 +48,11 @@ Building modern web, mobile, and backend solutions with clean architecture and s
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white)
 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-green?style=for-the-badge&logo=greensock&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo&logoColor=white)
 
 </div>
 
