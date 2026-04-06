@@ -95,31 +95,23 @@ I am a freelance full-stack developer specializing in building scalable web appl
 ## 📫 Contact
 
 <p>
-  <a href="mailto:jerald11kasim@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" align="center"/>
-  </a>
-  <b>Email:</b> jerald11kasim@gmail.com
+  <img src="https://cdn.simpleicons.org/gmail/white" width="20"/>
+  <b>Email:</b> <a href="mailto:jerald11kasim@gmail.com">jerald11kasim@gmail.com</a>
 </p>
 
 <p>
-  <a href="https://github.com/LowProgram1">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" align="center"/>
-  </a>
-  <b>GitHub:</b> https://github.com/LowProgram1
+  <img src="https://cdn.simpleicons.org/github/white" width="20"/>
+  <b>GitHub:</b> <a href="https://github.com/LowProgram1">github.com/LowProgram1</a>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/jerald-kasim-5a06242a5">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" align="center"/>
-  </a>
-  <b>LinkedIn:</b> www.linkedin.com/in/jerald-kasim-5a06242a5
+  <img src="https://cdn.simpleicons.org/linkedin/white" width="20"/>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jerald-kasim-5a06242a5">linkedin.com/in/jerald-kasim-5a06242a5</a>
 </p>
 
 <p>
-  <a href="https://facebook.com/YOUR_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" align="center"/>
-  </a>
-  <b>Facebook:</b> https://facebook.com/YOUR_USERNAME
+  <img src="https://cdn.simpleicons.org/facebook/white" width="20"/>
+  <b>Facebook:</b> <a href="https://www.facebook.com/jerald.kasim">facebook.com/YOUR_USERNAME</a>
 </p>
 
 ---
