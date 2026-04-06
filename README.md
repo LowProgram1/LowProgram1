@@ -111,7 +111,7 @@ I am a freelance full-stack developer specializing in building scalable web appl
 
 <p>
   <img src="https://cdn.simpleicons.org/facebook/white" width="20"/>
-  <b>Facebook:</b> <a href="https://www.facebook.com/jerald.kasim">facebook.com/YOUR_USERNAME</a>
+  <b>Facebook:</b> <a href="https://www.facebook.com/jerald.kasim">facebook.com/jerald.kasim</a>
 </p>
 
 ---
