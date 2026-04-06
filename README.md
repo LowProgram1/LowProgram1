@@ -105,7 +105,7 @@ I am a freelance full-stack developer specializing in building scalable web appl
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jerald-kasim-5a06242a5">linkedin.com/in/jerald-kasim</a>
 </p>
 
