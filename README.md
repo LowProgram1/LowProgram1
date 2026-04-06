@@ -92,14 +92,28 @@ I am a freelance full-stack developer specializing in building scalable web appl
 
 ---
 
-## 📫 Contact
+<h2 align="center">📫 Contact</h2>
 
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) jerald11kasim@gmail.com 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) https://github.com/LowProgram1
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
- www.linkedin.com/in/jerald-kasim-5a06242a5
- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+<p align="center">
+  <a href="mailto:jerald11kasim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/LowProgram1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jerald-kasim-5a06242a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
+<p align="center">
+  📧 jerald11kasim@gmail.com <br>
+  🌐 github.com/LowProgram1 <br>
+  💼 linkedin.com/in/jerald-kasim-5a06242a5
+</p>
 ---
 
 ⭐️ Feel free to explore my repositories and projects!
