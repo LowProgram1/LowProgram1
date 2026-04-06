@@ -95,7 +95,7 @@ I am a freelance full-stack developer specializing in building scalable web appl
 ## 📫 Contact
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="20"/>
   <b>Email:</b> <a href="mailto:jerald11kasim@gmail.com">jerald11kasim@gmail.com</a>
 </p>
 
