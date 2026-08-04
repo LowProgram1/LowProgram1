@@ -95,28 +95,4 @@ I am a freelance full-stack developer specializing in building scalable web appl
 
 ---
 
-## 📫 Contact
-
-<p>
-  <img src="https://cdn.simpleicons.org/gmail/D14836" width="20"/>
-  <b>Email:</b> <a href="mailto:jerald11kasim@gmail.com">jerald11kasim@gmail.com</a>
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/github/white" width="20"/>
-  <b>GitHub:</b> <a href="https://github.com/LowProgram1">github.com/LowProgram1</a>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jerald-kasim-5a06242a5">linkedin.com/in/jerald-kasim</a>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/>
-  <b>Facebook:</b> <a href="https://www.facebook.com/jerald.kasim">facebook.com/jerald.kasim</a>
-</p>
-
----
-
 ⭐️ Feel free to explore my repositories and projects!
