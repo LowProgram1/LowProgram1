@@ -20,8 +20,6 @@ Building modern web, mobile, and backend solutions with clean architecture and s
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +32,6 @@ Building modern web, mobile, and backend solutions with clean architecture and s
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -87,9 +84,9 @@ I am a freelance full-stack developer specializing in building scalable web appl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LowProgram1&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LowProgram1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LowProgram1&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowProgram1&layout=compact&theme=tokyonight&hide=java)
 
 </div>
 
